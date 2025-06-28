@@ -1,0 +1,33 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+/* custom.css 또는 <style>에 추가 */
+.button-store {
+	min-width: 260px; /* 원하는 고정폭 */
+}
+
+.flex-direction-nav { display: none !important; }
+
+body,
+#wrapper,
+#content {
+  background-color: #fff !important;
+}
+
+:root {
+  --cnvs-section-bg: #ffffff; /* 흰색으로 변경 */
+}
+
+.custom-mobile-height {
+  height: 40vh;
+}
+
+@media (max-width: 767.98px) {
+  .custom-mobile-height {
+    height: 60vh;
+  }
+}
