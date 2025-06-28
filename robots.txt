@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /legal.html
+Disallow: /delete-account.html
