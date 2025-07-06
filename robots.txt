@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /legal.html
 Disallow: /delete-account.html
+Sitemap: https://whatsub.xyz/sitemap.xml
