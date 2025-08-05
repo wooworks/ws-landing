@@ -1,4 +1,14 @@
 User-agent: *
 Disallow: /legal.html
 Disallow: /delete-account.html
+
+User-agent: Google-adstxt
+Disallow:
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Mediapartners-Google
+Disallow:
+
 Sitemap: https://whatsub.xyz/sitemap.xml
